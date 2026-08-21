@@ -1,3 +1,13 @@
+/*
+    LeetCode #1 - Two Sum
+
+    Difficulty: Easy
+    Topic: Array, Hash Table,Two Pointer
+    Pattern: Hashing
+
+    Time Complexity: O(n)
+    Space Complexity: O(n)
+*/
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {

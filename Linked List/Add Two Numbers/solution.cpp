@@ -1,3 +1,13 @@
+/*
+    LeetCode #2 - TAdd Two Numbers
+
+    Difficulty: Medium
+    Topic: Linked List,math
+    Pattern: iteration
+
+    Time Complexity: O(n)
+    Space Complexity: O(1)
+*/
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
